@@ -1,0 +1,1 @@
+(('Individuals & societies', 'Math', 'Japanese', 'Music', 'Physical education'), ('Science', 'Design', 'Math', 'Library', 'English'), ('Japanese', 'Science', 'Individuals & societies', 'Music'), ('Japanese', 'English', 'Science', 'Design', 'Physical education'), ('English', 'Individuals & societies', 'Math', 'Health', 'Extended homeroom'))

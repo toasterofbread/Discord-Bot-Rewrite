@@ -1,0 +1,1 @@
+['Science', 'Physical education', 'Music', 'Maths', 'Extended homeroom']

@@ -1,0 +1,33 @@
+        ClubList = {
+            "chi": 0,
+            "imp": 1,
+            "ttr": 2,
+            "bnd": 3,
+            "lga": 4,
+            "cal": 5,
+            "fty": 6,
+            "r20": 7,
+            "mus": 8,
+            "mkc": 9,
+            "ike": 10,
+            "mss": 11,
+            "bsk": 12
+        }
+
+        ClubList = (
+            "Chill Out",
+            "Imperial Assault",
+            "Tinker Thinker Reader",
+            "Band Advanced",
+            "Let's Get Active",
+            "Calligraphy",
+            "Touch Footy",
+            "Role 20",
+            "Music Video",
+            "Model Kit Construction",
+            "Ikebana",
+            "Modern Survival Skills",
+            "Basketball"
+        )
+
+{"g7": [""], "g8": [""], "g9": [""]}
